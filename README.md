@@ -1,4 +1,4 @@
-# my portfolio site is a work in progress
+# my portfolio site is in progress
 
 
 # [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
